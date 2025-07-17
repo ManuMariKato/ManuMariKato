@@ -2,8 +2,6 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Me chamo Manuela Mari, tenho 15 anos e estudo na ETEC em desenvolvimento de sistemas.
-
 <p align="left">
     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
         <img 
