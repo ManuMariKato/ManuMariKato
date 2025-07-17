@@ -106,6 +106,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
+    border= "1px solid #e50072;"
     src="https://github-readme-stats.vercel.app/api?username=ManuMariKato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
