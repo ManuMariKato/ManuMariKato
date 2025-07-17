@@ -7,21 +7,21 @@
         <img 
             alt="email" 
             title="Contate-me" 
-            src="https://custom-icon-badges.demolab.com/badge/-manuelamarikato@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-manuelamarikato@gmail.com-ff9ed0?style=for-the-badge&logo=mention&logoColor=black"
         />
     </a>
     <a href="https://www.instagram.com/manuela.kato/">
         <img 
             alt="Instagram" 
             title="Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/-instagram-pink?style=for-the-badge&logoColor=white&logo=instagram"
+            src="https://custom-icon-badges.demolab.com/badge/-instagram-ffb6dc?style=for-the-badge&logoColor=black&logo=instagram"
         />
     </a>
     <a href="https://github.com/ManuMariKato?tab=repositories">
         <img 
             alt="meus repositórios" 
             title="Repositórios de Manuela Mari" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-purple?style=for-the-badge&logoColor=white&logo=repo"
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-ffd4ea?style=for-the-badge&logoColor=black&logo=repo"
         />
     </a> 
 </p>
