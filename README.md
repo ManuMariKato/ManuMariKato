@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Manuela Mari
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F747DC&width=435&lines=%E2%9C%A7++Manuela+Mari++++)](https://git.io/typing-svg)
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
@@ -106,7 +106,6 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    border= "1px solid #e50072;"
     src="https://github-readme-stats.vercel.app/api?username=ManuMariKato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
