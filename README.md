@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F747DC&width=435&lines=%E2%9C%A7++Manuela+Mari++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8800F0&width=435&lines=%E2%9C%A7++Manuela+Mari++++)](https://git.io/typing-svg)
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
@@ -7,21 +7,21 @@
         <img 
             alt="email" 
             title="Contate-me" 
-            src="https://custom-icon-badges.demolab.com/badge/-manuelamarikato@gmail.com-ff9ed0?style=for-the-badge&logo=mention&logoColor=black"
+            src="https://custom-icon-badges.demolab.com/badge/-manuelamarikato@gmail.com-9546F0?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
     <a href="https://www.instagram.com/manuela.kato/">
         <img 
             alt="Instagram" 
             title="Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/-instagram-ffb6dc?style=for-the-badge&logoColor=black&logo=instagram"
+            src="https://custom-icon-badges.demolab.com/badge/-instagram-A96EF5?style=for-the-badge&logoColor=white&logo=instagram"
         />
     </a>
     <a href="https://github.com/ManuMariKato?tab=repositories">
         <img 
             alt="meus repositórios" 
             title="Repositórios de Manuela Mari" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-ffd4ea?style=for-the-badge&logoColor=black&logo=repo"
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-B996F4?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a> 
 </p>
