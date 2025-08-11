@@ -20,7 +20,7 @@
     <a href="https://github.com/ManuMariKato?tab=repositories">
         <img 
             alt="meus repositórios" 
-            title="Repositórios de Manuela Mari" 
+            title="Repositórios da Manuela Mari" 
             src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-B996F4?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a> 
