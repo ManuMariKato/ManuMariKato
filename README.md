@@ -26,6 +26,10 @@
     </a> 
 </p>
 
+<p align="right"> 
+
+</p>
+
 ---
 
 ### 💻 Linguagens e Tecnologias
