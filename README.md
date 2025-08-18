@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8800F0&width=435&lines=%E2%9C%A7++Manuela+Mari++++)](https://git.io/typing-svg)
+<img align="right" width="160px" height="auto" src="https://github.com/user-attachments/assets/c22d84ea-2375-4962-a4e2-d2de6caac627">
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
@@ -23,17 +24,12 @@
             title="Repositórios da Manuela Mari" 
             src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-B996F4?style=for-the-badge&logoColor=white&logo=repo"
         />
-    </a> 
-</p>
-
-<p align="right"> 
-
+    </a>
 </p>
 
 ---
 
 ### 💻 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
@@ -98,9 +94,10 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<br/>
+<br/>
 
-<br/>
-<br/>
+#
 
 ### 📊 Estatísticas
 
@@ -121,6 +118,7 @@
   />
 
 </p>
+
 <!--Cobrinha-->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuMariKato/ManuMariKato/output/github-contribution-grid-snake-dark.svg">
