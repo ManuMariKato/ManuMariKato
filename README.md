@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8800F0&width=435&lines=%E2%9C%A7++Manuela+Mari++++)](https://git.io/typing-svg)
-<img align="right" width="160px" height="auto" src="https://github.com/user-attachments/assets/c22d84ea-2375-4962-a4e2-d2de6caac627">
+<img align="right" width="150px" height="auto" src="https://github.com/user-attachments/assets/c22d84ea-2375-4962-a4e2-d2de6caac627">
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
