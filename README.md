@@ -1,9 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8800F0&width=435&lines=%E2%9C%A7++Manuela+Mari++++)](https://git.io/typing-svg)
-<img align="right" width="150px" height="auto" src="https://github.com/user-attachments/assets/c22d84ea-2375-4962-a4e2-d2de6caac627">
 
-**`Estudante de Desenvolvimento de Sistemas`**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A96EF5&height=100&section=header"/>
 
-<p align="left">
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8800F0&size=33&width=800&center=true&lines=%E2%9C%A7+Hi!+I'm+Manuela+Mari++++;++Systems+development+student)](https://git.io/typing-svg)
+
+
+
+<p align="center">
     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
         <img 
             alt="email" 
@@ -26,6 +30,11 @@
         />
     </a>
 </p>
+
+
+<div align="center">
+   <img align="center" width="150px" height="auto" src="https://github.com/user-attachments/assets/c22d84ea-2375-4962-a4e2-d2de6caac627">
+</div>
 
 ---
 
@@ -103,20 +112,18 @@
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ManuMariKato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuMariKato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+      width="49%" 
+      height="195px" 
+      src="https://github-readme-stats.vercel.app/api?username=ManuMariKato&show_icons=true&count_private=true&hide_border=true&title_color=A96EF5&icon_color=A96EF5&text_color=c9d1d9&bg_color=0d1117" 
+      alt="Manuela Mari GitHub Stats" 
+    /> 
+    <img 
+        width="41%" 
+        align="right" 
+        alt="GitHub Stats" 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuMariKato&layout=compact&hide_border=true&title_color=A96EF5&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117" 
+      />
 </p>
 
 <!--Cobrinha-->
@@ -125,3 +132,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManuMariKato/ManuMariKato/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ManuMariKato/ManuMariKato/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A96EF5&height=120&section=footer"/>
